@@ -1,0 +1,8 @@
+Considerando que o arquivo vendas.csv possui os dados das vendas realizadas no mês,
+faça um programa java que leia os dados deste arquivo e mostre na tela as seguintes 
+informações:
+
+	-Quantidade de vendas realizadas
+	-Valor total das vendas
+	-Valor total das vendas à vista
+	-Valor total das vendas à prazo
