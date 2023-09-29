@@ -1,0 +1,11 @@
+1. Implemente um programa em PHP que permita cadastrar alguma entidade a sua escolha. Por
+exemplo: Carro, Jogo, Produto, Pessoa, Ponto Turístico, Música…
+Requisitos:
+
+    1.1- Os dados da entidade devem ser salvos em arquivo JSON. Utilize um ID para a
+    entidade no formato UUID.
+    1.2- O programa em PHP deve ter as funcionalidades de listagem, inserção e exclusão,
+    conforme visto em aula.
+    1.3- O formulário deve ter no mínimo 4 campos, sendo ao menos 1 do tipo SELECT.
+    1.4- O programa deve validar todos os campos do formulário como obrigatórios. A validação
+    deve ser feita no back-end (servidor)
