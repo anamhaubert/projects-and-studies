@@ -1,0 +1,12 @@
+codigo;estoque;produto;preco_custo;categoria
+001;45;Papel A4;9,90;papelaria
+002;666;Limpa Vidros;4,89;limpeza
+003;3;Caneta Bic;1,23;papelaria
+005;76;Envelope A4;0,60;papelaria
+008;1234;Balde 7l;17,18;limpeza
+011;23;Cafeteira ;152,70;eletro
+012;1;Televisor 32”;880,00;eletro
+013;7;Celular xing ling;399,99;eletro
+014;44;Grill George Foremann;222,76;eletro
+004;6;Televisor 55”;2102,00;eletro
+006;15;Teclado Bluetooth;197,41;informática

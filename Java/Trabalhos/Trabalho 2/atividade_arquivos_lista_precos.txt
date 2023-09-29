@@ -1,0 +1,22 @@
+Atividade pratica avaliativa 2: Manipulacao de arquivos 
+
+Etapa 1 (para conceito B):
+Crie um programa que gere um arquivo csv com a lista de precos de venda (preco_venda.csv)
+dos produtos de uma loja:
+	-A lista de precos deve conter: codigo, nome produto, preco de venda
+	-O programa deve solicitar ao usuario a margem de lucro a ser aplicada aos produtos
+	-O formato do arquivo de entrada eh: codigo, estoque, nome produto, preco de custo
+e categoria (para teste usar o arquivo preco_custo.csv)
+
+
+
+Etapa 2 (para conceito A):
+Modifique o programa criado para:
+	-Solicitar ao usuario o nome do arquivo de entrada e de saida, caso o usuario deixe
+em branco o nome dos arquivos de entrada e saida, usar os nomes padrao
+(preco_custo.csv, preco_venda.csv)
+	-Gerar um segundo arquivo de saida (chamado comprar.csv) que contenha os itens com
+estoque inferior a 10 unidades, e os mesmos campos do arquivo de entrada.
+
+Entrega:
+    -Fazer upload da atividade no moodle.
