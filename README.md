@@ -1,7 +1,6 @@
 # projects-and-studies
 
-Welcome to Projects and Studies, your one-stop destination for a diverse collection of projects, both academic and personal, as well as a wealth of educational resources and studies. 
-This repository serves as a digital archive of my journey through learning, exploration, and creativity.
+Welcome to Projects and Studies, your one-stop destination for a diverse collection of projects, both academic and personal, as well as studies. This repository serves as a digital archive of my journey through learning, exploration, and creativity.
 
 What You'll Find Here:
 
@@ -18,7 +17,7 @@ Thank you for visiting Projects and Studies. Together, we can build a brighter, 
 
 ------------------------------------------------------------------------------------------------------
 
-Bem-vindo ao "Projects and Studies", seu destino único para uma coleção diversificada de projetos, tanto acadêmicos quanto pessoais, além de uma riqueza de recursos educacionais e estudos. Este repositório serve como um arquivo digital da minha jornada de aprendizado, exploração e criatividade.
+Bem-vindo ao "Projects and Studies", seu destino único para uma coleção diversificada de projetos, tanto acadêmicos quanto pessoais, além de estudos. Este repositório serve como um arquivo digital da minha jornada de aprendizado, exploração e criatividade.
 
 O que você encontrará aqui:
 
