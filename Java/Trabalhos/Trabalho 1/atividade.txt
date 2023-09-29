@@ -1,0 +1,22 @@
+Atividade prática avaliativa 1: Vetores de objetos
+
+No contexto de manipulação de vetores de objetos, implemente um pequeno sistema para uma companhia 
+aérea capaz de armazenar seus vôos, e dentro de cada vôo os seus passageiros.
+
+Para tanto, siga as seguintes orientações:
+
+1- Modele as classes:
+-Passageiro
+-Vôo
+-Companhia
+
+2- O menu do sistema deverá conter os seguintes itens:
+-Cadastrar vôo
+-Listar vôos
+-Consultar um determinado vôo
+	->Depois de mostrar todos os dados do vôo (incluindo os passageiros), informar a quantidade 
+de assentos livres no vôo.
+
+
+*Utilizar o VSCode como ambiente de desenvolvimento.
+**Enviar em formato .zip
