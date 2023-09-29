@@ -1,0 +1,7 @@
+ex3_listaCliente.php
+
+ex3_listaCliente.php?numIni=40
+
+ex3_listaCliente.php?numFim=75
+
+ex3_listaCliente.php?numIni=25&numFim=66
