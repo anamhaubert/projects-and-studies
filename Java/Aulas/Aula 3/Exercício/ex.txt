@@ -1,0 +1,11 @@
+-Criar um programa para utilizar as classes implementadas anteriormente:
+
+	-Exibir um menu com as opções disponíveis
+
+	-Solicitar ao usuário qual objeto ele quer criar 
+
+	-Armazenar em um objeto dados informados pelo usuário
+
+	-Exibir os dados do objeto na tela
+
+	-Retornar ao menu
