@@ -1,0 +1,1 @@
+http://localhost/Devweb2/aula1608/Forms/processar.php?nome=ana&idade=19
