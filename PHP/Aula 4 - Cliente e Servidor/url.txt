@@ -1,0 +1,7 @@
+soma.php?num1=20&num2=8
+
+mediaGET.php?num1=20&num2=8&num3=2
+
+mediaPOST.php?num1=20&num2=8&num3=2
+
+ex3Slide.php?cor=red
