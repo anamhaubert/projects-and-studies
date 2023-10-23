@@ -1,0 +1,1 @@
+ mysqldump -u root -p nome_do_banco > criar_nome_do_arquivo.sql
