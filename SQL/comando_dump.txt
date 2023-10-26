@@ -1,1 +1,4 @@
  mysqldump -u root -p nome_do_banco > criar_nome_do_arquivo.sql
+
+caminho:
+anama@ANALUISA c:\Users\anama\OneDrive\Documentos\ifpr\2 SEMESTRE\BANCO DE DADOS I
