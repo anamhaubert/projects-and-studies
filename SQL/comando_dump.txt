@@ -1,4 +1,5 @@
- mysqldump -u root -p nome_do_banco > criar_nome_do_arquivo.sql
+EXPORTAR mysqldump -u root nome_do_banco > criar_nome_do_arquivo.sql
+IMPORTAR mysql -u root nome_do_banco < nome_do_banco_externo.sql
 
 caminho:
 anama@ANALUISA c:\Users\anama\OneDrive\Documentos\ifpr\2 SEMESTRE\BANCO DE DADOS I
